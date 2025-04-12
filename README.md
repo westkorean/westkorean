@@ -16,6 +16,9 @@
   <a href="https://hackclub.slack.com/team/U08MGEFSM17" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
   </a>
+    <a href="https://dmoj.ca/user/eastkorean" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
+  </a>
 </div>
 
 ###
