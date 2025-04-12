@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A 16 year old Canadian high school student, and coding is a career/hobby of mine</h3>
+<h3 align="center">A 16-year-old Canadian high school student, and coding is a career/hobby of mine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=westkorean&label=Profile%20views&color=0e75b6&style=flat" alt="westkorean" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=westkorean" alt="westkorean" /></a> </p>
 
-- 🔭 I’m currently working on **CS50x's final project**
+- 🔭 I’m currently working on **the CS50x's final project.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning: **React Native**
 
-- 📫 How to reach me **ryanguan0000@gmail.com**
+- 📫 How to reach me: **ryanguan0000@gmail.com**
 
-- ⚡ Fun fact **I like to play Rocket League**
+- ⚡ Fun fact: **I like to play Rocket League!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
