@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
   </a>
     <a href="https://dmoj.ca/user/eastkorean" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
+    <img src="https://avatars.githubusercontent.com/u/6934864?s=280&v=4" width="40" height="40" alt="slack logo"  />
   </a>
 </div>
 
