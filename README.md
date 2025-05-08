@@ -60,3 +60,21 @@
 </div>
 
 ###
+
+Interests & Hobbies:
+- Video Games 🎮 (Rocket League, Roblox, Town of Salem 2)
+- Video Editing 🎬 (After Effects, Alight Motion)
+- Tiktok Content Creation 📱 @ryy.un
+- Badminton 🏸
+- Pokemon 🎱
+- Photography/Cinemotography/Videography 📸
+- Music 🎧 (Underground Scene, Hyperpop, Pluggnb, etc.)
+
+Fun facts:
+- I am 16 years old, living in Canada 🍁
+- My favourite music artist as of 5/7/2025 is Nate Sib
+- My dream would be to go on a vacation with my friends! ✈
+
+Goals in coding:
+- Learn App development ⛏ (React Native)
+- Learn ML/AI 💾
