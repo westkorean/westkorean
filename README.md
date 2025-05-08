@@ -64,7 +64,7 @@
 Interests & Hobbies:
 - Video Games 🎮 (Rocket League, Roblox, Town of Salem 2)
 - Video Editing 🎬 (After Effects, Alight Motion)
-- Tiktok Content Creation 📱 @ryy.un
+- Tiktok Content Creation 📱 [@ryy.un](https://www.tiktok.com/@ryy.un)
 - Badminton 🏸
 - Pokemon 🎱
 - Photography/Cinemotography/Videography 📸
